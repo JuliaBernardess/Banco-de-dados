@@ -30,7 +30,7 @@ values ("antonieta",37, "rua jardim das flores",4.600,"946283940");
  SELECT nome FROM tb_colaboradores WHERE salario < 2.000;
  
  
- UPDATE tb_colaboradores SET salario = 4600.00 WHERE id = 6;
+ UPDATE tb_colaboradores SET salario = 4600.00 WHERE id = 6;tb_produtostb_produtos
  
  SELECT * FROM tb_colaboradores; 
  
